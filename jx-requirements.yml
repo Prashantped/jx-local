@@ -25,5 +25,5 @@ spec:
       enabled: false
       production: false
   repository: nexus
-  secretStorage: local
+  secretStorage: kubernetes
   webhook: lighthouse
